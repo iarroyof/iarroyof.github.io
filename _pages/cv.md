@@ -24,7 +24,7 @@ Work experience
   
 * Summer 2018: Data Scientist
   * Center for Genomic Sciences (UNAM)
-  * Duties included: Information Extraction and research
+  * Duties included: Information Extraction from biomedical literature and research
   
 Skills
 ======
