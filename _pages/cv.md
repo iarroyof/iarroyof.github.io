@@ -11,41 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electronics, Universidad Tecnológica de la Mixteca (UTM), 2006
+* M.S. in Electronics, UTM (Intelligent Systems), 2013
+* Ph.D in Computer Science, Universidad Nacional Autónoma de México, UNAM (Artificial Intelligence), 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018: Data Science consultant
+  * Banorte - Insurance
+  * Duties included: Data modelling for fraud detection
+  [//]: # * Supervisor: Professor Hub
+  
+* Summer 2018: Data Scientist
+  * Center for Genomic Sciences (UNAM)
+  * Duties included: Information Extraction and research
+  [//]: # * Supervisor: Car
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science
+  * Multidiciplinary applications
+  * Data Analytics
+  
+* Machine Learning
+  * Unsupervised learning
+  * Predictive modelling
+  * Reinforcement Learning
+  
+* Natural Language Processing
+  * Vector Semantics
+  * Text Summarization
+  * Information Extraction
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
