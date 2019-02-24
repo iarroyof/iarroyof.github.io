@@ -21,12 +21,10 @@ Work experience
 * Fall 2018: Data Science consultant
   * Banorte - Insurance
   * Duties included: Data modelling for fraud detection
-  [//]: # * Supervisor: Professor Hub
   
 * Summer 2018: Data Scientist
   * Center for Genomic Sciences (UNAM)
   * Duties included: Information Extraction and research
-  [//]: # * Supervisor: Car
   
 Skills
 ======
