@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Universidad Nacional Autónoma de México, Facultad de ciencias"
-date: 2018-2019
+date: 06-08-2018
 location: "Mexico City"
 ---
 
