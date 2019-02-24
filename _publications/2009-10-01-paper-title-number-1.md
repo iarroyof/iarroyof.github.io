@@ -6,7 +6,7 @@ excerpt: 'Keywords: Sentence Representation, Sentence Embedding, Word Embedding,
 date: 2019-01-25
 venue: 'Computer Speech & Language'
 paperurl: 'https://doi.org/10.1016/j.csl.2019.01.005'
-citation: 'Ignacio Arroyo-Fernández, Carlos-Francisco Méndez-Cruz, Gerardo Sierra, Juan-Manuel Torres-Moreno, Grigori Sidorov. (2009). &quot;Unsupervised sentence representations as word information series: Revisiting TF–IDF.&quot; <i>Computer Speech & Language</i>. 56(1).'
+citation: 'Ignacio Arroyo-Fernández, Carlos-Francisco Méndez-Cruz, Gerardo Sierra, Juan-Manuel Torres-Moreno, Grigori Sidorov. (2019). &quot;Unsupervised sentence representations as word information series: Revisiting TF–IDF.&quot; <i>Computer Speech & Language</i>. 56(1).'
 ---
 Highlights:
 
@@ -23,4 +23,4 @@ Highlights:
 [Download preprint here](https://arxiv.org/abs/1710.06524) or ask for the Journal version via e-mail
 
 Recommended citation: Ignacio Arroyo-Fernández, Carlos-Francisco Méndez-Cruz, Gerardo Sierra, Juan-Manuel Torres-Moreno, Grigori Sidorov,
-Unsupervised sentence representations as word information series: Revisiting TF–IDF, Computer Speech & Language, Volume 56, 2019, Pages 107-129, ISSN 0885-2308.
+Unsupervised sentence representations as word information series: Revisiting TF–IDF, <i>Computer Speech & Language</i>, Volume 56, 2019, Pages 107-129, ISSN 0885-2308.
