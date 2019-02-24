@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Cyberbullying Detection Task: the EBSI-LIA-UNAM System (ELU) at COLING'18 TRAC-1"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Trolling, Aggression and Cyberbullying'
+date: 2018-08-25
+venue: 'Proceedings of the First Workshop on Trolling, Aggression and Cyberbullying (TRAC-2018)'
+paperurl: 'http://www.aclweb.org/anthology/W18-4417'
+citation: 'Arroyo-Fernández, I., Forest, D., Torres-Moreno, J. M., Carrasco-Ruiz, M., Legeleux, T., & Joannette, K. (2018). &quot;Cyberbullying Detection Task: the EBSI-LIA-UNAM System (ELU) at COLING'18 TRAC-1.&quot; <i>Proceedings of the First Workshop on Trolling, Aggression and Cyberbullying (TRAC-2018)</i>. (pp. 140-149).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://www.aclweb.org/anthology/W18-4417)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Arroyo-Fernández, I., Forest, D., Torres-Moreno, J. M., Carrasco-Ruiz, M., Legeleux, T., & Joannette, K. (2018). "Cyberbullying Detection Task: the EBSI-LIA-UNAM System (ELU) at COLING'18 TRAC-1". In <i>Proceedings of the First Workshop on Trolling, Aggression and Cyberbullying (TRAC-2018)</i>. (pp. 140-149).
