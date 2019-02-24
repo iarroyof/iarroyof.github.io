@@ -2,7 +2,7 @@
 title: "Unsupervised sentence representations as word information series: Revisiting TF–IDF"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Keywords: Sentence Representation, Sentence Embedding, Word Embedding, Information Theory, TF-IDF, Natural Language Processing'
 date: January/2019
 venue: 'Computer Speech & Language'
 paperurl: 'https://doi.org/10.1016/j.csl.2019.01.005'
