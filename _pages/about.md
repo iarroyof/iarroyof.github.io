@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Ignacio Arroyo is a Data Science consultant in the insurance industry. Also he holds a professorship in Machine Learning, at UNAM, the premier University in Latin America. His research work focuses mainly on Natural Language Processing (NLP) and other applications of Machine Learning to data imbalance modeling. He recently earned a Ph.D. degree in Computer Science with focus on Artificial Intelligence, and holds a MSc degree in Intelligent Systems with applications to electronics. He loves rinding bike.
+Ignacio Arroyo is a Data Science consultant in the insurance industry. He is also a professor of Machine Learning at UNAM, one of the main universities in Latin America. Her research work focuses mainly on natural language processing (NLP) and other machine learning applications to solve data imbalance problems. He recently obtained a Ph.D. in Computer Science with emphasis in Artificial Intelligence, and has a Master's degree in Intelligent Systems with applications in electronics. He loves to ride a bicycle.
+
