@@ -83,10 +83,10 @@ author:
   name             : "Ignacio Arroyo-Fernández"
   avatar           : "portrait.png"
   bio              : "PhD in Computer Science (Artificial Intelligence), MSc in Electronics (Intelligent Systems), BSc in Electronics"
-  location         : "Mexico City"
-  employer         :
+  location         : "Oaxaca, Mexico"
+  employer         : "Universidad Tecnologica de la Mixteca (UTM)"
   googlescholar    : "https://scholar.google.com/citations?user=UXGo8NkAAAAJ&hl=es"
-  email            :
+  email            : "iaf<at>mixteco<dot>utm<dot>mx"
   researchgate     : "https://www.researchgate.net/profile/Ignacio_Arroyo-Fernandez" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,14 +100,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ignacio-arroyo-fern%C3%A1ndez-31321781"
   orcid            : "http://orcid.org/0000-0002-2866-1316"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@MachineUnam"
+  twitter          : "@i_arroyof"
   vine             :
   weibo            :
   xing             :
